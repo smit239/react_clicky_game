@@ -1,0 +1,24 @@
+{
+  "name": "react_clicky_game",
+  "version": "1.0.0",
+  "description": "react_clicky_game",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smit239/react_clicky_game.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/smit239/react_clicky_game/issues"
+  },
+  "homepage": "https://github.com/smit239/react_clicky_game#readme",
+  "dependencies": {
+    "react": "^16.9.0",
+    "react-dom": "^16.9.0",
+    "react-scripts": "^3.1.2"
+  }
+}

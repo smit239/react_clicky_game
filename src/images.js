@@ -12,6 +12,8 @@ import ironman_4 from './images/ironman_4.jpg';
 import spiderman_1 from './images/spiderman_1.jpg';
 import spiderman_2 from './images/spiderman_2.jpg';
 import thore_1 from './images/thore_1.jpg'; 
+import blackpanther_2 from './images/blackpanther_2.jpg';
+import thore_2 from './images/thore_2.png';
 
 
 const images = [
@@ -28,7 +30,9 @@ const images = [
     ironman_4,
     spiderman_1,
     spiderman_2,
-    thore_1
+    thore_1,
+    blackpanther_2,
+    thore_2
 ];
 
 export default images;

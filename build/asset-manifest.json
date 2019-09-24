@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/smit239/react_clicky_game/static/css/main.029ea7f5.chunk.css",
+    "main.js": "/smit239/react_clicky_game/static/js/main.e0888fd7.chunk.js",
+    "main.js.map": "/smit239/react_clicky_game/static/js/main.e0888fd7.chunk.js.map",
+    "runtime-main.js": "/smit239/react_clicky_game/static/js/runtime-main.44da96e9.js",
+    "runtime-main.js.map": "/smit239/react_clicky_game/static/js/runtime-main.44da96e9.js.map",
+    "static/js/2.f5f501f7.chunk.js": "/smit239/react_clicky_game/static/js/2.f5f501f7.chunk.js",
+    "static/js/2.f5f501f7.chunk.js.map": "/smit239/react_clicky_game/static/js/2.f5f501f7.chunk.js.map",
+    "index.html": "/smit239/react_clicky_game/index.html",
+    "precache-manifest.0f71154f48e16021c3f1e5e26f2e5a91.js": "/smit239/react_clicky_game/precache-manifest.0f71154f48e16021c3f1e5e26f2e5a91.js",
+    "service-worker.js": "/smit239/react_clicky_game/service-worker.js",
+    "static/css/main.029ea7f5.chunk.css.map": "/smit239/react_clicky_game/static/css/main.029ea7f5.chunk.css.map",
+    "static/media/Banner.css": "/smit239/react_clicky_game/static/media/Marvel_All.481d24e5.jpg",
+    "static/media/batman_1.jpg": "/smit239/react_clicky_game/static/media/batman_1.3abb3ad4.jpg",
+    "static/media/blackpanther_1.jpg": "/smit239/react_clicky_game/static/media/blackpanther_1.830795db.jpg",
+    "static/media/captain_america1.jpg": "/smit239/react_clicky_game/static/media/captain_america1.488da7fc.jpg",
+    "static/media/captain_america2.jpg": "/smit239/react_clicky_game/static/media/captain_america2.6d54c873.jpg",
+    "static/media/captain_america3.png": "/smit239/react_clicky_game/static/media/captain_america3.e2907ebb.png",
+    "static/media/captain_america4.jpg": "/smit239/react_clicky_game/static/media/captain_america4.f3ab549a.jpg",
+    "static/media/hulk_1.jpg": "/smit239/react_clicky_game/static/media/hulk_1.a543ce95.jpg",
+    "static/media/ironman_1.png": "/smit239/react_clicky_game/static/media/ironman_1.7500594d.png",
+    "static/media/ironman_2.jpg": "/smit239/react_clicky_game/static/media/ironman_2.549819ce.jpg",
+    "static/media/ironman_3.jpg": "/smit239/react_clicky_game/static/media/ironman_3.a187d551.jpg",
+    "static/media/ironman_4.jpg": "/smit239/react_clicky_game/static/media/ironman_4.77752f34.jpg",
+    "static/media/spiderman_1.jpg": "/smit239/react_clicky_game/static/media/spiderman_1.0384648b.jpg",
+    "static/media/spiderman_2.jpg": "/smit239/react_clicky_game/static/media/spiderman_2.1171630c.jpg",
+    "static/media/thore_1.jpg": "/smit239/react_clicky_game/static/media/thore_1.cf4cc845.jpg"
+  }
+}

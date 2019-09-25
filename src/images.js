@@ -14,7 +14,10 @@ import spiderman_2 from './images/spiderman_2.jpg';
 import thore_1 from './images/thore_1.jpg'; 
 import blackpanther_2 from './images/blackpanther_2.jpg';
 import thore_2 from './images/thore_2.png';
-
+import Alliance_2 from './images/Alliance_2.png';
+import Alliance_3 from './images/Alliance_3.png';
+import deadpool_1 from './images/deadpool_1.jpg';
+import deadpool_2 from './images/deadpool_2.jpg';
 
 const images = [
     batman_1,
@@ -32,7 +35,11 @@ const images = [
     spiderman_2,
     thore_1,
     blackpanther_2,
-    thore_2
+    thore_2,
+    Alliance_2,
+    Alliance_3,
+    deadpool_1,
+    deadpool_2
 ];
 
 export default images;
